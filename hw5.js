@@ -136,7 +136,7 @@ let stasNovsky = new currentUser({
     phone: "+3 8093 202 48 00"
 })
 
-//console.log(stasNovsky.fullName());
+console.log(stasNovsky);
 
 
 function searchUserByIndex(index){
